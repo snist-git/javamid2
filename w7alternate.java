@@ -62,7 +62,7 @@ class BankAccount
 }
 
 
-public class exhan
+public class w7alternate
 {
   public static void main(String args[])
   {
