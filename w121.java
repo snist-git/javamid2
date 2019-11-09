@@ -45,7 +45,7 @@ class n implements WindowListener
   }
  }
 
-public class week12_windowevents
+public class w121
 {
   public static void main(String args[])
   {
