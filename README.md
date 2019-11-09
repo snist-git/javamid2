@@ -29,3 +29,9 @@ Advanced Calculator
 
 ## w11.java
 Write a Java program for handling mouse events and key events.
+
+## w121.java
+Write a Java Program to handle Window Events.
+
+## w122.java
+Develop an applet that displays a simple message.
