@@ -1,4 +1,3 @@
-# Site Under Development from 10:53 PM to 11:15 PM, please do not access
 # Java Mid 2 Programs
 ## Disclaimer : Dear student, you are advised to change the name of the programs and execute them in order to avoid getting caught plagiarising.
 
