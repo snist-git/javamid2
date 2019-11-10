@@ -14,7 +14,7 @@ class w10alternate implements ActionListener
    w10alternate()
    {
 
-     UIManager.put("Button.font",new Font("Segoe UI",Font.PLAIN,16));
+     
      JFrame f = new JFrame("Nice Complex GUI Calculator");
      JLabel l = new JLabel("Welcome! Please enter two numbers to +, - , *, / them.");
      a = new JTextField();
