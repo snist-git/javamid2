@@ -3,6 +3,9 @@
 
 List of Programs :
 
+## w51.java
+Write a Java Program to check if a string is a palindrome.
+
 ## w53.java
 Write a Java Program to print the number of words in a piece of text, in a text file.
 
