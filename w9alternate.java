@@ -2,12 +2,12 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
-class guicalc implements ActionListener
+class w9alternate implements ActionListener
 {
    JTextField a,b,c;
    JButton    x,y;
    
-   guicalc()
+   w9alternate()
    {
      JFrame f = new JFrame("Simple GUI Calculator");
      JLabel l = new JLabel("Welcome! Please enter two numbers to add or subtract them.");
@@ -53,7 +53,7 @@ public class w9alternate
 {
    public static void main(String args[])
    {
-      new guicalc();
+      new w9alternate();
    }
 }
      
